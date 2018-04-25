@@ -1,25 +1,14 @@
-# CourseIAAC_results
-Репозиторий-основа для материалов по дисциплине «Алгоритмы и анализ сложности»
+# Гунько Виктор Дмитриевич
+Репозиторий для материалов по дисциплине «Алгоритмы и анализ сложности»
 
  Список заданий:
- ```
-Автоматное
-Перевод числа
-Алгоритм половинного деления
-Рекурсия 
-Анализ алгоритма сортировки
-```
 
-Как оформлять?
+Анализ алгоритма сортировки: [Moodle](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6419) | [Google Drive](https://drive.google.com/open?id=1t3KKcG5liDIGm7tUYyHO5z5_JBjdhIvR)
 
-Использовать слайды по образцу  https://kodaktor.ru/g/report_template
+Рекурсия: [Moodle](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6420) | [Google Drive](https://drive.google.com/open?id=1spz_ppJDIpXuvxt16TLzH1WF2td01kwT)
 
-Нужно в файле README вашего репозитория-ответа вставить ссылки на работающие примеры.
+Алгоритм половинного деления: [Moodle](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6421) | [Google Drive](https://drive.google.com/open?id=1GsP6IJFEJmcWDFXXqJM7LcmELZVEDmzs)
 
-Если это борд кодактора, то в адресе не должно быть восклицательного и вопросительного знака, а также знака равенства.
+Перевод числа: [Moodle (только в виде txt)](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6130) | [Google Drive](https://drive.google.com/open?id=1KikZ_aAh1FP4crAE_UQzFTkbnRP-J0-M)
 
-Не забывайте об указании авторства всех выполненных заданий https://kodaktor.ru/g/z7a
-
-Курс: https://moodle.herzen.spb.ru/course/view.php?id=2359#section-10
-
-Ссылка на задание: https://classroom.github.com/a/3hu6uqbA
+Автоматное: [Moodle](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6422) | [Google Drive](https://drive.google.com/open?id=1adxZBMOJOeNQYiBrOXS2cJvaqG1dRqCX)
